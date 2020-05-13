@@ -13,6 +13,9 @@ Test dokumen crawler. disimpan di dalam docs
    install
    support
    cookbook
+   try
+   HAI
+   HAIHAI
 
 .. toctree::
    :caption: Programmer Reference
