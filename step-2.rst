@@ -1,4 +1,4 @@
-Step 2: Building References & API docs
+Step 2: API DOCS
 ======================================
 
 .. note:: Finish at 11:15

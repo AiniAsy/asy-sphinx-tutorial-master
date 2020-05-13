@@ -1,4 +1,4 @@
-Step 1: Getting started with RST 
+Step 1: RST
 ================================
 
 Now that we have our basic skeleton,

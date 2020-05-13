@@ -1,4 +1,4 @@
-Step 3: Keeping Documentation Up to Date
+Step 3: UP TO DATE
 ========================================
 
 Now we have a wonderful set of documentation,
